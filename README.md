@@ -20,7 +20,7 @@ Implementar a parte de registro de pedidos de um app de uma sorveteria:
 - Controle de fluxo (`break/continue`)
 
 ---
-### Saída de Console
+### Execução do Programa
 ![Saída de console esperada](https://github.com/larisanti/py-sorveteria-pedidos/blob/main/output)
 
 ---
